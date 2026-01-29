@@ -1,8 +1,9 @@
-Download entire IGNOU eGyankosh degree/course syllabus & soft copies for persuing degree
+Download IGNOU eGyankosh degree/course syllabus & soft copies pdfs for persuing degree
 
 ## DISCLAIMER
-- This software is only built to download courses at 1 place kindly share downloaded course with every known members persuing same degree/course
-- Don't abuse this software, Kindly use it responsibly, Don't span IGNOU servers
+- This software is only built to download courses at 1 place kindly share downloaded course with every known members persuing same degree/course.
+- Don't abuse this software, Kindly use it responsibly, Don't spam IGNOU servers.
+- This software is built using chatgpt within 4 hours for students, contributions are welcome.
 
 # How To Use
 
